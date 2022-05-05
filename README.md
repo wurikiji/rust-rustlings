@@ -1,3 +1,7 @@
+# Finished on **2022-May-5th**
+
+![finished!](./finish-rustling.png)
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
@@ -136,13 +140,15 @@ build the project with all features (the equivalent of `cargo build --all-featur
 For specific editor instructions:
 
 - **VSCode**: Add a `.vscode/settings.json` file with the following:
+
 ```json
 {
-    "rust-analyzer.cargo.features": ["exercises"]
+  "rust-analyzer.cargo.features": ["exercises"]
 }
 ```
+
 - **IntelliJ-based Editors**: Using the Rust plugin, everything should work
-    by default.
+  by default.
 - _Missing your editor? Feel free to contribute more instructions!_
 
 ## Continuing On
